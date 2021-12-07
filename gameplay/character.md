@@ -1,10 +1,10 @@
 ---
-label: Rock Star
+label: Rock Stars
 icon: person
 order: -2
 ---
 
-# :icon-person: Rock Star
+# :icon-person: Rock Stars
 
 ## Description
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://crypto-stars.github.io/cryptostars/sitemap.xml.gz

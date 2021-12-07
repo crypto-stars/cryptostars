@@ -1,7 +1,7 @@
 ---
 label: Token (ASTRO)
 icon: graph
-order: -9
+order: -10
 ---
 
 # :icon-graph: ASTRO

@@ -1,7 +1,7 @@
 ---
 label: Tours
 icon: calendar
-order: -3
+order: -4
 ---
 
 # :icon-calendar: Tours

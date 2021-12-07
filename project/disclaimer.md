@@ -1,7 +1,7 @@
 ---
 label: Disclaimer
 icon: checklist
-order: -14
+order: -15
 ---
 
 # :icon-checklist: Disclaimer

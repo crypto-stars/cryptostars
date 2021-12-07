@@ -1,7 +1,7 @@
 ---
 label: Team
 icon: people
-order: -13
+order: -14
 ---
 
 # :icon-people: Team

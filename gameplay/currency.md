@@ -1,7 +1,7 @@
 ---
 label: Currency (STARS)
 icon: star
-order: -8
+order: -9
 ---
 
 # :icon-star: STARS

@@ -1,7 +1,7 @@
 ---
 label: Rock Stars
 icon: person
-order: -2
+order: -3
 ---
 
 # :icon-person: Rock Stars
@@ -22,6 +22,7 @@ Each **Rock Star** have a list of attributes.
 | --------------- | -------------------------------------------------------------- |
 | Name            | The name is defined automatically.                             |
 | Gender          | The gender of the **Rock Star**.                               |
+| Status          | The status of the **Rock Star**.                               |
 | Profession      | The profession is defined automatically.                       |
 | Rarity          | A greater rarity defines the **Rock Star**'s greatest success. |
 | Rehearse price  | Price to rehearse the songs with the band in a studio.         |
@@ -30,6 +31,20 @@ Each **Rock Star** have a list of attributes.
 | Salary bonus    | How much bonus the **Rock Star** earn on each tour.            |
 | Total tours     | How many tours the **Rock Star** do in your career.            |
 | Tours remaining | How many tours are left before **Rock Star** retires.          |
+
+---
+
+## Status
+
+The status defines the **Rock Star** moment:
+
+| Status      | Description                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Idle        | The **Rock Star** is idle. Create a tour for the pro to showcase their talents to the public. |
+| On tour     | The **Rock Star** is on tour. Wait for the tour to end to bring the pro back to your agency.  |
+| Out of tune | The **Rock Star** is out of tune. Send the pro to rehearse with the band.                     |
+| Rehearsing  | The **Rock Star** is rehearsing with the band.                                                |
+| Retired     | The **Rock Star** is retired. Sell the pro in marketplace to get some profit.                 |
 
 ---
 

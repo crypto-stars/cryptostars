@@ -1,7 +1,7 @@
 ---
 label: Audition Stage
 icon: location
-order: -6
+order: -7
 ---
 
 # :icon-location: Audition Stage

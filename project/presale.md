@@ -1,7 +1,7 @@
 ---
 label: Presale
 icon: tag
-order: -11
+order: -12
 ---
 
 # :icon-tag: Presale

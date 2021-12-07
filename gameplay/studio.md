@@ -1,7 +1,7 @@
 ---
 label: Studio
 icon: organization
-order: -7
+order: -8
 ---
 
 # :icon-organization: Studio

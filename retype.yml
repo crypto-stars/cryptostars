@@ -1,0 +1,21 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Crypto Stars - Rock
+  label: Whitepaper
+links:
+  - text: Home
+    link: https://localhost:5000/home
+  - text: Presale
+    link: https://localhost:5000/project/presale/
+  - text: Tokenomics
+    link: https://localhost:5000/gameplay/token/
+  - text: Transports
+    link: https://localhost:5000/gameplay/transports/
+  - text: Astros
+    link: https://localhost:5000/gameplay/token/
+  - text: Tours
+    link: https://localhost:5000/gameplay/tour/
+footer:
+  copyright: "&copy; Crypto Stars - Copyright {{ year }}. All rights reserved."

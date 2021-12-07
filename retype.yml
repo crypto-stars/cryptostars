@@ -16,6 +16,6 @@ links:
   - text: Rock Stars
     link: https://crypto-stars.github.io/cryptostars/gameplay/character/
   - text: Tours
-    link: hhttps://crypto-stars.github.io/cryptostars/gameplay/tours/
+    link: https://crypto-stars.github.io/cryptostars/gameplay/tours/
 footer:
   copyright: "&copy; Crypto Stars - Copyright {{ year }}. All rights reserved."

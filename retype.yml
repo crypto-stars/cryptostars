@@ -6,16 +6,16 @@ branding:
   label: Whitepaper
 links:
   - text: Home
-    link: https://localhost:5000/home
+    link: https://crypto-stars.github.io/cryptostars/home
   - text: Presale
-    link: https://localhost:5000/project/presale/
+    link: https://crypto-stars.github.io/cryptostars/project/presale/
   - text: Tokenomics
-    link: https://localhost:5000/gameplay/token/
+    link: https://crypto-stars.github.io/cryptostars/gameplay/token/
   - text: Transports
-    link: https://localhost:5000/gameplay/transports/
+    link: https://crypto-stars.github.io/cryptostars/gameplay/transports/
   - text: Astros
-    link: https://localhost:5000/gameplay/token/
+    link: https://crypto-stars.github.io/cryptostars/gameplay/token/
   - text: Tours
-    link: https://localhost:5000/gameplay/tour/
+    link: hhttps://crypto-stars.github.io/cryptostars/gameplay/tour/
 footer:
   copyright: "&copy; Crypto Stars - Copyright {{ year }}. All rights reserved."

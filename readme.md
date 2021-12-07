@@ -1,5 +1,5 @@
 ---
-label: CryptoStars - Rock
+label: Home
 icon: heart
 order: 1
 ---

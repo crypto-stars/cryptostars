@@ -6,11 +6,11 @@ branding:
   label: Whitepaper
 links:
   - text: Home
-    link: https://crypto-stars.github.io/cryptostars/home
+    link: https://crypto-stars.github.io/cryptostars/
   - text: Presale
     link: https://crypto-stars.github.io/cryptostars/project/presale/
   - text: Tokenomics
-    link: https://crypto-stars.github.io/cryptostars/gameplay/token/
+    link: https://crypto-stars.github.io/cryptostars/project/token/
   - text: Transports
     link: https://crypto-stars.github.io/cryptostars/gameplay/transports/
   - text: Astros

@@ -24,27 +24,33 @@ Depositing $ASTRO to receive STARS requires a minimum amount of XX $ASTRO.
 
 ## Uses
 
+### Manage a Rock Star
+
+| Where          | Price     |
+| -------------- | --------- |
+| Audition Stage | 200 STARS |
+
 ### Rehearse with the band in a studio
 
-| Rarity     | Price     |
-| ---------- | --------- |
-| Common     | 150 STARS |
-| Uncommon   | 100 STARS |
-| Rare       | 90 STARS  |
-| Super rare | 80 STARS  |
-| Epic       | 70 STARS  |
-| Legendary  | 50 STARS  |
-| Immortal   | 30 STARS  |
+| Rarity     | Price    |
+| ---------- | -------- |
+| Common     | 1 STARS  |
+| Uncommon   | 3 STARS  |
+| Rare       | 5 STARS  |
+| Super rare | 7 STARS  |
+| Epic       | 8 STARS  |
+| Legendary  | 11 STARS |
+| Immortal   | 15 STARS |
 
 ### Create a tour
 
-| Profession      | Price     |
-| --------------- | --------- |
-| Keyboard player | 150 STARS |
-| Bass player     | 100 STARS |
-| Guitar player   | 90 STARS  |
-| Drummer         | 80 STARS  |
-| Singer          | 70 STARS  |
+| Profession      | Price   |
+| --------------- | ------- |
+| Keyboard player | 5 STARS |
+| Bass player     | 5 STARS |
+| Guitar player   | 5 STARS |
+| Drummer         | 5 STARS |
+| Singer          | 5 STARS |
 
 ### Others
 

@@ -31,16 +31,21 @@ The only option will be to sell it on the marketplace.
 ## Rock Star cycle
 
 **Idle:**
+
 The **Rock Star** is idle. Create a tour for the pro to showcase their talents to the public.
 
 **On Tour:**
+
 The **Rock Star** is on tour. Wait for the tour to end to bring the pro back to your agency.
 
 **Out of Tune:**
+
 The **Rock Star** is out of tune. Send the pro to rehearse with the band.
 
 **Rehearsing:**
+
 The **Rock Star** is rehearsing with the band.
 
 **Retired:**
+
 The **Rock Star** is retired. Sell the pro in marketplace to get some profit.

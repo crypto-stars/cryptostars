@@ -34,32 +34,18 @@ Each **Rock Star** have a list of attributes.
 
 ---
 
-## Status
-
-The status defines the **Rock Star** moment:
-
-| Status      | Description                                                                                   |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| Idle        | The **Rock Star** is idle. Create a tour for the pro to showcase their talents to the public. |
-| On tour     | The **Rock Star** is on tour. Wait for the tour to end to bring the pro back to your agency.  |
-| Out of tune | The **Rock Star** is out of tune. Send the pro to rehearse with the band.                     |
-| Rehearsing  | The **Rock Star** is rehearsing with the band.                                                |
-| Retired     | The **Rock Star** is retired. Sell the pro in marketplace to get some profit.                 |
-
----
-
 ## Professions
 
 The profession defines the tour time and how much the **Rock Star** will receive after each tour:
 
-| Attribute   | Salary | Tour Time (hs) |
-| ----------- | ------ | -------------- |
-| Keyboardist | 1      | 24             |
-| Bassist     | 2      | 24             |
-| Guitarist   | 4      | 24             |
-| Drummer     | 6      | 24             |
-| Vocalist    | 10     | 24             |
-| The lead    | 15     | 24             |
+| Attribute   | Salary | Tour Time (hs) | Probability to be minted |
+| ----------- | ------ | -------------- | ------------------------ |
+| Keyboardist | 5      | 12             | 50%                      |
+| Bassist     | 5      | 10             | 30%                      |
+| Guitarist   | 7      | 10             | 10%                      |
+| Drummer     | 10     | 8              | 5%                       |
+| Vocalist    | 15     | 8              | 4%                       |
+| The lead    | 20     | 6              | 1%                       |
 
 ---
 
@@ -69,13 +55,13 @@ The rarity is determined at the time a **Rock Stars** is managed and defines how
 
 | Rarity    | To rehearse (STARS) | Bonus per tour (STARS) | Probability to be minted | Tour limit |
 | --------- | ------------------- | ---------------------- | ------------------------ | ---------- |
-| Common    | 150                 | 5                      | 75%                      | 720 hours  |
-| Uncommon  | 100                 | 7                      | 12%                      | 1200 hours |
-| Rare      | 90                  | 10                     | 5%                       | 1440 hours |
-| Unique    | 80                  | 15                     | 4%                       | 1680 hours |
-| Epic      | 70                  | 20                     | 3%                       | 2160 hours |
-| Legendary | 50                  | 25                     | 1%                       | 2880 hours |
-| Immortal  | 30                  | 40                     | Not minted               | Unlimited  |
+| Common    | 1                   | 3                      | 75%                      | 720 hours  |
+| Uncommon  | 3                   | 5                      | 12%                      | 960 hours  |
+| Rare      | 5                   | 7                      | 5%                       | 1200 hours |
+| Unique    | 7                   | 9                      | 4%                       | 1320 hours |
+| Epic      | 9                   | 12                     | 3%                       | 1440 hours |
+| Legendary | 11                  | 15                     | 1%                       | 1680 hours |
+| Immortal  | 15                  | 25                     | Not minted               | Unlimited  |
 
 [!ref How can you get an **Immortal Rock Star**?](../project/presale.md)
 
@@ -94,24 +80,6 @@ When you purchase a **Rock Star** on the marketplace, the tour limit will automa
 
 !!!
 **Immortal Rock Star** will have no tour limit. This kind of rarity allows you to profit with unlimited tours and without the worry that **Rock Star** will one day retire.
-!!!
-
----
-
-### Rehearse with the band
-
-Rehearse the band's songs in a studio.
-
-!!!
-This action must be performed before going on tour.
-!!!
-
-### Send to the tour
-
-Send the **Rock Star** to tour along with his band.
-
-!!!
-This action can only be performed if you have seats available in the transport.
 !!!
 
 ---
